@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Sherburn-Castle being an accidental discovery of a private conference lately held there. Wherein the Prince of O's third declaration is truly stated. In a familiar dialogue between Frank a Protestant and Tom a R. Catholick.</title>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52214</idno><idno type="EEBO-CITATION">99834523</idno>
+  <idno type="VID">39024</idno>
+  <idno type="EEBO-PROQUEST">2240931183</idno>
+  
+            <idno type="STC">Wing N1001</idno>
+            <idno type="STC">ESTC R224192</idno>
+            <idno type="PROQUEST">99834523</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99834523e"/>
+            <note>(EEBO-TCP ; phase 2, no. A52214)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 39024)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1817:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Sherburn-Castle being an accidental discovery of a private conference lately held there. Wherein the Prince of O's third declaration is truly stated. In a familiar dialogue between Frank a Protestant and Tom a R. Catholick.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for P. T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The Prince of O = William of Orange.</note>
+                  <note>Reproduction of the original in the Guildhall Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term type="personal_name">William --  III, --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James II, 1685-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:39024:1"/>
+            <head>News from Sherburn-Castle: Being an Accidental DISCOVERY OF A Private Conference Lately held There. Wherein the Prince of <hi>O's</hi> Third Declaration is truly Stated. <hi>In a Familiar</hi> DIALOGUE <hi>between</hi> Frank <hi>a</hi> Protestant, <hi>and</hi> Tom <hi>a</hi> R. Catholick.</head>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>HOnest <hi>Frank,</hi> How goes it? What Wind blew Thee hither? I'll warrant the surprizing <hi>In<g ref="char:EOLhyphen"/>vasion</hi> of the <hi>Butter-Boxes?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Who's here my old Acquaintance <hi>Tom Doolittle?</hi> What in the Name of Thrift made Thee here? What, I dare Swear thou art come to see the <hi>Protestant Prince;</hi> the <hi>Great, Great</hi> Prince of <hi>Orange?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Why, Faith <hi>Frank,</hi> so I am. For to speak Truth in a Word, the World is grown to that pass, that, <hi>There is no Truth in Man.</hi> Men now a days are like those <hi>Well-be<g ref="char:EOLhyphen"/>haved Ghosts</hi> that <hi>Aeneas</hi> met with, that were <hi>Friends</hi> to talk with, and <hi>Men</hi> to look on, but if one graspt them, but <hi>Air. Promises</hi> now are accounted but a kind of <hi>Mannerly Words,</hi> and in expectation of your Manners you are not to exact them; if you do, your <hi>Ill-breeding</hi> is a sufficient Wonder, that <hi>cannot distinguish between what is spoken,</hi> and what is <hi>meant.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Alas! alas! Mr. <hi>Zealous,</hi> what a <hi>Canting</hi> you make! You are One of the <hi>Common Cry,</hi> and meerly makes it louder by <hi>One.</hi> You (forsooth) must be <hi>publickly Af<g ref="char:EOLhyphen"/>fected,</hi> and you will not be wiser than the rest of your Coun<g ref="char:EOLhyphen"/>try. <hi>Thus Men say,</hi> and <hi>Thus most do,</hi> and <hi>Thus the World goes,</hi> are Arguments strong enough to oppose <hi>Reason.</hi> You are hugely ravisht with such a <hi>Nobleman's Courtesie,</hi> and you'll venture your Life for him because he put off his Hat. Wheedled into a Rebellion, by a Complement, and so Dam<g ref="char:EOLhyphen"/>ned by a needless Civility. You measure the <hi>Happiness of a Kingdom</hi> by the <hi>Cheapness of Corn,</hi> and no other but ill <hi>Trading</hi> us with you the <hi>Harm of State.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Good my Friend <hi>Francis,</hi> why so sharp upon us <hi>De<g ref="char:EOLhyphen"/>vonshire Lads,</hi> Pray when did you find us the foremost to kiss the King's Hand, and cry, <hi>God bless His Majesty,</hi> loud<g ref="char:EOLhyphen"/>est, when your <hi>Hearts</hi> agreed not with their <hi>Mouths.</hi> Come, come, Time was, when you and we parted your Religion between your <hi>Consciences</hi> and your <hi>Purses,</hi> and you came to Church, not to serve <hi>God,</hi> but the <hi>King.</hi> The Face of the <hi>Law</hi> made you wear the Mask of the <hi>Gospel,</hi> which you used as a Means not to save your <hi>Souls,</hi> but <hi>Charges.</hi> Once a Month (to keep off the <hi>Church-Wardens</hi>) you presented your selves at Church, and brought in our <hi>Bodies</hi> to save your <hi>Bail.</hi> When you kneeled with the Congregation, you Prayed by your selves, and <hi>askt God forgiveness for coming thither.</hi> Nothing struck you with more Terror, than an <hi>Apparitor.</hi> You were not scared with <hi>Bulls</hi> from <hi>Rome,</hi> they were too far off; (tho' I verily believe we both love <hi>Popery</hi> well, but that we are loth to <hi>lose</hi> by it.) These, dear <hi>Frank,</hi> these were the Crimes when Mens Consciences were <hi>manacled,</hi> and you were forced to believe (at least to make a shew of it) as the Church would have you: And then the genera Lamentation was, <hi>Oh the Persecuting of the Saints! What a tying up and imposing upon our Consciences is here?</hi> &amp;c. When in Truth, we should have made better <hi>Travellers</hi> than <hi>Martyrs,</hi> for our Consciences were so <hi>large,</hi> we could never wander out of them.</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Hey! hey! whither away, good Mr. <hi>Whyner?</hi> Why reflecting thus on <hi>past Times.</hi> Those days are over, and <hi>Liberty of Conscience,</hi> a general Indulgence to render Souls, is now the Happiness of our whole Country. Every Man may enjoy the Fruit of his own Vine; have the <hi>Free<g ref="char:EOLhyphen"/>dom</hi> to serve God in his <hi>Own Way,</hi> without being forced by Imprisonments, Confiscations, and the like rigorous Seve<g ref="char:EOLhyphen"/>rities, to go to Church, and serve God <hi>according to the Re<g ref="char:EOLhyphen"/>ligion Establish'd by Law.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Good Mr. <hi>Negative,</hi> who knows not that? Tho' I must confess, thou speakest the Language and Sense of the whole Country.</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>
+                  <hi>Negative!</hi> Pups, explain your self; What mean you by a <hi>Negative?</hi> Don't take me for a Fool.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>I, <hi>Negative,</hi> Mr. <hi>Surly,</hi> is one that we cann<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a <hi>Wise-Man,</hi> but not a <hi>Fool;</hi> nor an <hi>Honest-Man,</hi> but not a <hi>Knave;</hi> nor a <hi>Protestant,</hi> but not a <hi>Papist.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Odsbobs, Here's a <hi>Character</hi> indeed! Neither <hi>Wise,</hi> nor <hi>Foolish;</hi> neither <hi>Honest,</hi> nor <hi>Knavish;</hi> neither <hi>Protestant,</hi> nor <hi>Papist.</hi> I faith we are the <hi>fittest</hi> People in the World to be taught to <hi>Rebel.</hi>
+               </p>
+            </sp>
+            <sp>
+               <pb facs="tcp:39024:2"/>
+               <speaker>Tom.</speaker>
+               <p>In troth, <hi>Frank,</hi> thou hast hit it. Our Country Reason is merely Example; and our <hi>Actions</hi> are not gui<g ref="char:EOLhyphen"/>ded by our <hi>Ʋnderstandings;</hi> but we see other Men do <hi>thus</hi> and <hi>thus,</hi> and we follow them. But prithee, dost hear any thing of this <hi>Cursed</hi> Invasion? VVe are the most unhappy Country of this Kingdom, to be the Seat of <hi>Two Rebellions; One</hi> of the <hi>Nephew,</hi> and <hi>This</hi> of the <hi>Son.</hi> Good God! What do they mean by this?</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Mean you Ass, what dost not understand <hi>Common Sense?</hi> Dost thou not see <hi>Popery</hi> coming in like a mighty Torrent, and 't ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>most overwhelm'd <hi>England.</hi> There's scarce a Town, but what has a <hi>Popish,</hi> as well as <hi>Presbyte<g ref="char:EOLhyphen"/>rian</hi> Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Out you Simpleton, <hi>Both</hi> are against Law, and we must wink at the <hi>First,</hi> that we may enjoy the <hi>Latter.</hi> Besides, otherwise how can it agree with <hi>Liberty of Con<g ref="char:EOLhyphen"/>science,</hi> when any one Sect or Party is deny'd the <hi>Free Ex<g ref="char:EOLhyphen"/>ercise</hi> of his Religion?</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Well, but that is not all: The King they say, <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y dispence with all Law:</hi> and so he Erects a <hi>New Court Ecclesiastical:</hi> Is for <hi>Taking away the Penal Laws and Tests:</hi> Has put a <hi>Sham</hi> Prince of <hi>Wales</hi> upon us; Suffers the <hi>Monks to bu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ld them Monastries:</hi> The <hi>Jesuits to Teach School;</hi> and <hi>One</hi> was of his <hi>Privy Council:</hi> changes <hi>Officers</hi> and <hi>Ma<g ref="char:EOLhyphen"/>strates,</hi> both Military and Civil, <hi>that refuse setting their Hands to the Repealing the Penal Laws and Tests;</hi> and in short, runs quite counter to the Interest of the Kingdom, the <hi>Liberty</hi> and <hi>Property</hi> of the Subjects, &amp;c. So the Talk is here in every Bodies Mouth; and that the <hi>Dutch</hi> are come over to be on the <hi>Church of England</hi>'s side; and will be aiding towards the settling things in the Ancient Con<g ref="char:EOLhyphen"/>stitution and Posture.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>So, so, very fine, sure thou hast heard something of the <hi>Prince's</hi> last <hi>Declaration!</hi> But prithee, without any farther Ramble, tell me, what thou think'st, and hast heard of this unnatural Invasion. Be free.</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>
+                  <hi>Ʋnnatural,</hi> quoth a! It is <hi>unnatural</hi> for a <hi>Son</hi> to Rebel against a <hi>Father,</hi> and pretend to seize upon his E<g ref="char:EOLhyphen"/>state before he is Dead, out of a presumption, that he shall be Disinherited by an <hi>Impostor</hi> of an <hi>Heir?</hi> Good God! When has any Age given us an Action of so <hi>wonderful</hi> a Nature, as His Majesty's <hi>late Condescention</hi> was, in satis<g ref="char:EOLhyphen"/>fying his Subjects about the undoubted Truth of the Birth of the <hi>Prince of Wales?</hi> What an <hi>Humility</hi> was here in so great a Monarch, to stoop to so <hi>low,</hi> and (I may say) <hi>shameful Publication</hi> of His <hi>Son</hi>'s Birth: So that no Man, that values either Honor or Conscience, but must acqui<g ref="char:EOLhyphen"/>esce in so attested a Verity. And what's all the noise of <hi>Monastries,</hi> and their pretended <hi>Instruments of Cruelty, Je<g ref="char:EOLhyphen"/>suits Schools, Popish Officers,</hi> and the like; Has not the King restored the Fellows of <hi>Magdalen Colledge;</hi> taken off the <hi>Suspencion of the Bishop of London;</hi> reinstated the removed <hi>Lieutenants</hi> of the several Counties; dissolved the <hi>Ecclesi<g ref="char:EOLhyphen"/>astical Commission Court;</hi> restored and confirmed the seve<g ref="char:EOLhyphen"/>ral <hi>Charters</hi> of the Corporation; and ordered the removal of the <hi>Mass-Houses;</hi> and, in short, done what a <hi>Kind Prince,</hi> could do for a <hi>Dissatisfied People.</hi> Come, come, it is not the Duty of <hi>Good Subjects</hi> to censure every <hi>false Step</hi> may be made in the Actions of State. And what a Devil a <hi>Foreign Prince</hi> has to do with the Regulating our Government here in <hi>England,</hi> I cannot imagine. Dost thou think that Person a <hi>Friend,</hi> who pretends to <hi>scratch</hi> my Head with One Hand, and <hi>breaks</hi> it with the Other. Because I am <hi>supposed Bad,</hi> I must have one to <hi>knock</hi> me in Head, to make me <hi>Good</hi> Can'st thou imagine, the <hi>Dutch,</hi> I say the <hi>Dutch,</hi> ever can mean good to the <hi>Eng<g ref="char:EOLhyphen"/>lis<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> (<gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>retend wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t they will?) <hi>A People to whom <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>solute Acts; and Treason, a business of no <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                     <gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>equence.</hi> I think, we have sufficiently found what <hi>Friends</hi> they have bin to this Nation, when in the Reign of his Majesty's Royal Grandfather, King <hi>James, Poleroone</hi> in the <hi>Indies,</hi> was Surrendred into the Power and Possession of the Famous Captain <hi>Courtop,</hi> for His Majesty's Use; no other Nation at that time, having any <hi>Interest</hi> in't, or <hi>Pretensions</hi> to it; these ungrateful and In<g ref="char:EOLhyphen"/>solent <hi>Holanders</hi> seiz'd on it; and being to restore it upon Composition to the <hi>English,</hi> they like Rascally <hi>Cheats</hi> cut down the <hi>Clove-Trees,</hi> to deprive the <hi>English</hi> of the <hi>Be<g ref="char:EOLhyphen"/>nefit</hi> of them. No less Infamous and Hated were they even among the Rude and Savage <hi>Indians,</hi> for their Barba<g ref="char:EOLhyphen"/>rous Inhumanity executed on some of the <hi>English</hi> (the greatest Patrons under God, they have in the World) at <hi>Amboyna;</hi> whom, under colour of a Plot to destroy their Fortress, they most cruelly Tortured, and Wickedly Mur<g ref="char:EOLhyphen"/>dered; when, in plain Truth, there was no other Reason, but because they were <hi>most beloved</hi> by the Inhabitants, and began to <hi>gain upon their Trade.</hi> The Inhabitants of the Island indeed received them at first with <hi>Joy</hi> and <hi>Triumphs;</hi> but alas! they soon found they got little by the Bargain of <hi>Change;</hi> their <hi>New Masters</hi> growing more burthensome and intollerable than their <hi>Old Ones</hi> had bin. For the <hi>Dutch</hi> claiming in the <hi>Right of Conquest,</hi> they thought they might Oppress the Natives by the <hi>Law of Arms,</hi> and Engross all Trade to themselves, as the true <hi>Proprietaries.</hi> The Application is too Obvious; and what must we expect of them <hi>Now,</hi> but the same Fate with our Fellow Subjects at <hi>Amboyna. Blood, Rapine, Violence,</hi> and a whole Chain of Mischiefs, are the usual effects of <hi>Conquests.</hi> And, let them pretend what they will, 'tis nothing but a reducing <hi>England</hi> under their <hi>Hogan Mo<g ref="char:EOLhyphen"/>gan Yoke,</hi> is the Design. Our King is our <hi>Lawful Prince;</hi> and, I hope, is not to be thrust out of His Throne by such <hi>bold</hi> Invaders. I wonder how <hi>English</hi>-Men should lose their Ancient Glory, and be so <hi>Religiously</hi> Wheedled into their own Ruine: when a Man that has but half an Eye, may see, that the <hi>deepest Endearment of these</hi> Dutch, <hi>is but a Communication of Mischief.</hi> May <hi>Monmouth</hi>'s Fate attend those Invaders; instead of being <hi>Great,</hi> Beh—, And may the same Catastrophe befall these, who have lately sided with the <hi>Authors</hi> and <hi>Abettors</hi> of our present Confusions. <hi>Loyalty</hi> to my Prince must not be put in the Balance with <hi>Disobligation:</hi> Nor can pretence for <hi>Reli<g ref="char:EOLhyphen"/>gion</hi> attone for <hi>Treason:</hi> nor shall the <hi>Multitude</hi> of Crimi<g ref="char:EOLhyphen"/>nals, in such cases, mittigate the Punishment which will be Inflicted <hi>on every particular Offender.</hi> History both Ancient and Modern, afford us tremendous Instances of this Nature.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>Well, <hi>Frank,</hi> I am highly satisfied with thy Dis<g ref="char:EOLhyphen"/>course. Indeed, I am afraid a great many of these Men have been too quick for themselves, and have let their Actions <hi>put a Legg</hi> before their Judgments, and out-run them too. God knows, we shall <hi>All</hi> be sharers in this <hi>general</hi> Calamity.</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>Ay, sure enough, every Mother's Son of us. And yet, forsooth, what a grumbling and grunting were our Stomachs vext with, so that we were so <hi>Heart-Sick</hi> of <hi>Popery,</hi> that nothing but a <hi>Dutch</hi> Doctor could Cure us. One would have thought the Application of a <hi>Parliament</hi> at home, might have <hi>Nipt this in the Bud,</hi> and prevented the growth of this Distemper. And yet methinks my Soul tells me, that notwithstanding all this Stir, and Pre<g ref="char:EOLhyphen"/>paration, the Effusion of <hi>Christian Blood</hi> will be avoided by a <hi>well-grounded Accommodation:</hi> To the <hi>Glory</hi> and <hi>Honor</hi> of <hi>GOD</hi> and the <hi>KING;</hi> and the <hi>Safety, Peace,</hi> and <hi>Welfare</hi> of this poor Distracted Kingdom.</p>
+            </sp>
+            <sp>
+               <speaker>Tom.</speaker>
+               <p>GOD grant it may so happen. I hear it was the <hi>Humble Request</hi> of the <hi>Loyal Clergy</hi> and <hi>Nobility</hi> to the KING. And that <hi>GOD</hi> has enlarged His Majesty's Heart timely to consider it.</p>
+            </sp>
+            <sp>
+               <speaker>Frank.</speaker>
+               <p>God be thanked. Adieu, Honest Friend, till our next Meeting.</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>With Allowance.</p>
+         </div>
+         <div type="colophon">
+            <p>LONDON, Printed for <hi>P. T.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
